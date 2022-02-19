@@ -1,4 +1,5 @@
 html {
+  background-color: #e7deca;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   font: 112.5%/1.45em georgia, serif, sans-serif;
@@ -51,6 +52,7 @@ template {
   display: none;
 }
 a {
+  color: #232323;
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
 }
